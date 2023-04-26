@@ -1,5 +1,5 @@
 
-# gamers_conference
+# awesomeBooks
 - This Awesome books project will be for adding, viewing and reading books. Created in Vanilla JS to showcase the array methods and JS classes skills obtained so far at Microverse.
 
 
@@ -42,7 +42,7 @@
 
 
 
-**[awesomeBooks]** is my like a books library built in the microverse program. Its built using HTML, CSS and Javascript.
+**[awesomeBooks]** is like a books library built in the microverse program. Its built using HTML, CSS and Javascript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,8 +99,8 @@ In order to run this project you need:
 
 Clone the code from project using terminal into your local machine and then open with live server on the index.html
 
-- using SSH (git clone git@github.com:BenjaminMatembe/awesome_books.git )
-- using HTTPS (git clone https://github.com/BenjaminMatembe/awesome_books.git )
+- using SSH (git clone git@github.com:BenjaminMatembe/awesomeBooks.git )
+- using HTTPS (git clone https://github.com/BenjaminMatembe/awesomeBooks.git )
 
 
 ### Setup
@@ -109,11 +109,11 @@ Clone the code from project using terminal into your local machine and then open
 >Clone this repository to your desired folder using:
 
  <h1>Setup SSH-key and use this command</h1>
- git clone git clone git@github.com:BenjaminMatembe/awesome_books.git
+ git clone git clone git@github.com:BenjaminMatembe/awesomeBooks.git
 
  <h1>Using HTTPS</h1>
 
- git clone https://github.com/BenjaminMatembe/awesome_books.git
+ git clone https://github.com/BenjaminMatembe/awesomeBooks.git
 
 
 
@@ -203,7 +203,7 @@ If you like this project you can reuse the code and suggest adjustments too.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/BenjaminMatembe/awesome_books/blob/main/MIT.md)) licensed.
+This project is [MIT](https://github.com/BenjaminMatembe/awesomeBooks/blob/javascript_objects/MIT.md)) licensed.
 
 
 
