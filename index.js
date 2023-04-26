@@ -11,6 +11,7 @@ const createHtml = () => {
   booksList.forEach((book) => {
     const item = document.createElement('ul');
     item.innerHTML = `<li>${book.title} <br/> ${book.author} <br/> <button class="remove">Remove</button></li>`;
+    item.style.listStyle = 'none';
     bookListed.appendChild(item);
   });
 };
